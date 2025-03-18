@@ -1,1 +1,1 @@
-Autonomous Driving , Humanoids. Leaning diverse domains.
+Autonomous Driving , Humanoids. Learning diverse domains.
